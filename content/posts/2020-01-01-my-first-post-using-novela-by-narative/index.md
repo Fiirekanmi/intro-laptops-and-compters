@@ -1,5 +1,5 @@
 ---
-title: My first post using Novela by Narative
+title: All about Laptops And computers
 author: Dennis Brotzky
 date: 2019-04-30
 hero: ./images/hero.jpg
